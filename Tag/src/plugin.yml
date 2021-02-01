@@ -1,0 +1,7 @@
+main: me.melonnootfound.tag.Tag
+name: Tag
+version: 1.0
+author: MelonNootFound
+
+commands:
+  tag:

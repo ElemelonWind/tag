@@ -2,7 +2,8 @@
 tag game plugin for spigot minecraft
 
 ## Commands
-/tag - starts a game of tag with everyone in the current lobby
+/tag start - starts a 5 minute game of tag with everyone in the current lobby <br>
+/tag end - ends the current game
 
 ## Download
 1. download Tag.jar from the repository
